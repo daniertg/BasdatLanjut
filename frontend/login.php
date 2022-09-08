@@ -70,7 +70,7 @@ a {
   text-align: center;
 }
 </style>
-<form action="simpan.php" method="post">
+<form action="ceklogin.php" method="post">
     <div class="container">
         <div class ="box"></div>
       <h1>Login</h1>
